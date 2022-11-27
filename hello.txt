@@ -14,5 +14,11 @@ hello atguigu
 hello atguigu 
 hello atguigu 
 hello atguigu 
+<<<<<<< HEAD
 hello atguigu
 aaaa;wqqaq:
+=======
+hello atguigu 
+hello atguigusssssssssssssssssssssssssssssss 
+qqqqqqqqqqqqqqqqqqqq
+>>>>>>> hot-fix
